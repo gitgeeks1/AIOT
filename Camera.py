@@ -1,3 +1,4 @@
+#Raspistill -o Image.jpg
 #sudo apt-get update
 #sudo apt-get install python-picamera python3-picamera
 

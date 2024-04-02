@@ -1,3 +1,5 @@
+# pin for VCC is 2, gnd is 6, Rx is 8, Tx is 10
+
 import serial
 from time import sleep
 import webbrowser

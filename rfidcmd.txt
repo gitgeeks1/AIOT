@@ -1,3 +1,5 @@
+echo "Hello There" > /dev/ttys0
+disable bluetooth from menu bar
 sudo nano /boot/config.txt
 dtoverlay=disable-bt
 sudo systemctl disable hciuart

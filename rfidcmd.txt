@@ -4,3 +4,7 @@ sudo nano /boot/config.txt
 dtoverlay=disable-bt
 sudo systemctl disable hciuart
 reboot the raspberry pi 
+
+
+
+#output will be shown in serial_read.py

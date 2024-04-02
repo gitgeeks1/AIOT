@@ -1,5 +1,6 @@
 #sudo apt-get install python-pip
 #sudo pip install teleport
+# gnd for GND, GPIO PIN IS PIN 11(on board)
 
 import sys
 import time

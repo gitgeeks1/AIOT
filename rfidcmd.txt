@@ -3,3 +3,4 @@ disable bluetooth from menu bar
 sudo nano /boot/config.txt
 dtoverlay=disable-bt
 sudo systemctl disable hciuart
+reboot the raspberry pi 
